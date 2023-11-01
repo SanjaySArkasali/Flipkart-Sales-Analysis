@@ -26,5 +26,6 @@ This analysis aims to assess our brand's sales performance, focusing on the impa
 - Now merge the dataset orders on sales 'left' join on common column 'order_id' (foramt the order id columns name and content)
 - Now just based on the event type and event sub type classify in to organic, promotinal and return columns.
 - from the new date from order that is merged now extract hour
+- Some rows have nulls in some columns which will support in other analysis thats why i haven't droped those rows.
 
 ## Results (Screenshots)
