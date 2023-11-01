@@ -28,4 +28,9 @@ This analysis aims to assess our brand's sales performance, focusing on the impa
 - from the new date from order that is merged now extract hour
 - Some rows have nulls in some columns which will support in other analysis thats why i haven't droped those rows.
 
+[Power Bi dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRiZjk5MzYtZGI0OC00MDkzLTk4MjMtODc4NTZlNDQ4MTMzIiwidCI6ImJmNDE4ZmE0LWM3NzQtNDViMS05YWZiLTM0NjgyNGVlYWZlMSIsImMiOjEwfQ%3D%3D)
 ## Results (Screenshots)
+![project 2 scrennshot1](https://github.com/SanjaySArkasali/Flipkart-Sales-Analysis/assets/121194268/c4b12fdb-2f79-4ed6-b5de-9990bbd140c6)
+![screenshot3](https://github.com/SanjaySArkasali/Flipkart-Sales-Analysis/assets/121194268/3d6c6962-ff05-4bce-b052-0ba7e7ffcd9e)
+![screenshot2](https://github.com/SanjaySArkasali/Flipkart-Sales-Analysis/assets/121194268/0cb0cb5f-0b07-4078-82be-f2a8acdfe36f)
+
